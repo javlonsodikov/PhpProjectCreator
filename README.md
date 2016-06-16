@@ -1,10 +1,10 @@
-# PhpProjectCreater
+# Php Project Creator
 =============================
 
 
 Project is under development
 
-Create project - is automation of local development environment setup.
+Php Project Creator - is automation of local development environment setup.
  
  
 When we begin create new project we always do same things like:
