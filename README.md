@@ -17,3 +17,11 @@ When we begin create new project we always do same things like:
 5. Register project in web service 
 6. Add name to hosts file  
 ```
+
+
+#Usage
+
+run in console 
+
+create yii2 mynewproject
+ 
